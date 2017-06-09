@@ -1,0 +1,28 @@
+// JavaScript Document
+
+$(document).ready(function(){
+
+	$("#hospital-registration-form").submit(function(){
+		var hospital_group_name = $("#HospitalRegistration_hospital_name").val();
+		var errorFlag = false;
+		var pattern = /^([A-Z])+(([a-zA-Z0-9\s])+)+$/;
+		if(hospital_group_name== ''){
+			$("#hospital_group_name_err").html("Please enter hospital group name!").show();;
+			errorFlag = true;
+		} else if(hospital_group_name.length >=1 && hospital_group_name.length < 4 ) {
+			$("#hospital_group_name_err").html('Hospital group name should be greater than 4 characters!').show();;
+			errorFlag = true;
+		} else if ( !pattern.test(hospital_group_name) ){
+			$("#hospital_group_name_err").html('First character should be capital!').show();;
+			errorFlag = true;
+		}
+		
+		if(errorFlag == true){
+			return false;
+		} else {
+			$("#hospital-registration-form").submit();
+		}
+	});
+
+});
+

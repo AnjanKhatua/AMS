@@ -1,0 +1,36 @@
+[03-May-2016 13:34:27 UTC] PHP Fatal error:  Call to a member function isAttributeRequired() on a non-object in /home/idiochiranjit/public_html/uk/ams/yii/framework/web/helpers/CHtml.php on line 1514
+[09-May-2016 07:25:45 UTC] PHP Parse error:  syntax error, unexpected 'url' (T_STRING), expecting ')' in /home/idiochiranjit/public_html/uk/ams/themes/ams/views/layouts/tpl_navigation.php on line 32
+[09-May-2016 07:25:47 UTC] PHP Parse error:  syntax error, unexpected 'url' (T_STRING), expecting ')' in /home/idiochiranjit/public_html/uk/ams/themes/ams/views/layouts/tpl_navigation.php on line 32
+[10-May-2016 13:10:05 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/idiochiranjit/public_html/uk/ams/protected/modules/admin/views/shiftManagementForHospital/_form.php on line 21
+[10-May-2016 13:10:16 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/idiochiranjit/public_html/uk/ams/protected/modules/admin/views/shiftManagementForHospital/_form.php on line 21
+[10-May-2016 13:18:26 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/idiochiranjit/public_html/uk/ams/protected/modules/admin/views/shiftManagementForHospital/_form.php on line 21
+[10-Sep-2016 06:39:06 Europe/London] PHP Fatal error:  Call to undefined method Custom::getUpcomingAvailableShiftDetails() in /home/idiochiranjit/public_html/uk/ams/protected/controllers/SecureController.php on line 61
+[12-Sep-2016 11:10:59 Europe/London] PHP Fatal error:  Class 'ShiftEnquiry' not found in /home/idiochiranjit/public_html/uk/ams/protected/components/Custom.php on line 129
+[12-Sep-2016 11:15:39 Europe/London] PHP Fatal error:  Class 'ShiftEnquiry' not found in /home/idiochiranjit/public_html/uk/ams/protected/components/Custom.php on line 129
+[12-Sep-2016 11:16:59 Europe/London] PHP Fatal error:  Class 'ShiftEnquiry' not found in /home/idiochiranjit/public_html/uk/ams/protected/components/Custom.php on line 129
+[12-Sep-2016 11:17:12 Europe/London] PHP Fatal error:  Class 'ShiftEnquiry' not found in /home/idiochiranjit/public_html/uk/ams/protected/components/Custom.php on line 129
+[12-Sep-2016 11:17:54 Europe/London] PHP Fatal error:  Class 'ShiftEnquiry' not found in /home/idiochiranjit/public_html/uk/ams/protected/components/Custom.php on line 129
+[14-Sep-2016 09:48:34 Europe/London] PHP Fatal error:  Call to undefined method Utility::getAvailableDateTimeForStaffForApp() in /home/idiochiranjit/public_html/uk/ams/protected/components/Custom.php on line 75
+[14-Sep-2016 09:51:09 Europe/London] PHP Fatal error:  Call to undefined method Utility::getAvailableDateTimeForStaffForApp() in /home/idiochiranjit/public_html/uk/ams/protected/components/Custom.php on line 75
+[14-Sep-2016 09:51:42 Europe/London] PHP Fatal error:  Call to undefined method Utility::getAvailableDateTimeForStaffForApp() in /home/idiochiranjit/public_html/uk/ams/protected/components/Custom.php on line 75
+[14-Sep-2016 09:52:09 Europe/London] PHP Fatal error:  Call to undefined method Utility::getAvailableDateTimeForStaffForApp() in /home/idiochiranjit/public_html/uk/ams/protected/components/Custom.php on line 75
+[14-Sep-2016 09:53:57 Europe/London] PHP Fatal error:  Call to undefined method Utility::getAvailableDateTimeForStaffForApp() in /home/idiochiranjit/public_html/uk/ams/protected/components/Custom.php on line 75
+[14-Sep-2016 09:54:06 Europe/London] PHP Fatal error:  Call to undefined method Utility::getAvailableDateTimeForStaffForApp() in /home/idiochiranjit/public_html/uk/ams/protected/components/Custom.php on line 75
+[14-Sep-2016 09:54:52 Europe/London] PHP Fatal error:  Call to undefined method Utility::getAvailableDateTimeForStaffForApp() in /home/idiochiranjit/public_html/uk/ams/protected/components/Custom.php on line 75
+[14-Sep-2016 11:03:22 Europe/London] PHP Fatal error:  Call to undefined method Utility::getAvailableDateTimeForStaffForApp() in /home/idiochiranjit/public_html/uk/ams/protected/components/Custom.php on line 75
+[14-Sep-2016 11:03:26 Europe/London] PHP Fatal error:  Call to undefined method Utility::getAvailableDateTimeForStaffForApp() in /home/idiochiranjit/public_html/uk/ams/protected/components/Custom.php on line 75
+[14-Sep-2016 11:05:27 Europe/London] PHP Fatal error:  Call to undefined method Utility::getAvailableDateTimeForStaffForApp() in /home/idiochiranjit/public_html/uk/ams/protected/components/Custom.php on line 75
+[14-Sep-2016 11:05:37 Europe/London] PHP Fatal error:  Call to undefined method Utility::getAvailableDateTimeForStaffForApp() in /home/idiochiranjit/public_html/uk/ams/protected/components/Custom.php on line 75
+[14-Sep-2016 11:05:41 Europe/London] PHP Fatal error:  Call to undefined method Utility::getAvailableDateTimeForStaffForApp() in /home/idiochiranjit/public_html/uk/ams/protected/components/Custom.php on line 75
+[14-Sep-2016 11:05:45 Europe/London] PHP Fatal error:  Call to undefined method Utility::getAvailableDateTimeForStaffForApp() in /home/idiochiranjit/public_html/uk/ams/protected/components/Custom.php on line 75
+[14-Sep-2016 12:51:57 Europe/London] PHP Fatal error:  Call to undefined method Utility::getWeekDate() in /home/idiochiranjit/public_html/uk/ams/protected/modules/finance/views/timesheet/_form.php on line 37
+[14-Sep-2016 13:42:25 Europe/London] PHP Fatal error:  Call to undefined method Utility::getAvailableDateTimeForStaffForApp() in /home/idiochiranjit/public_html/uk/ams/protected/components/Custom.php on line 75
+[14-Sep-2016 13:42:47 Europe/London] PHP Fatal error:  Call to undefined method Utility::getAvailableDateTimeForStaffForApp() in /home/idiochiranjit/public_html/uk/ams/protected/components/Custom.php on line 75
+[14-Sep-2016 13:42:57 Europe/London] PHP Fatal error:  Call to undefined method Utility::getAvailableDateTimeForStaffForApp() in /home/idiochiranjit/public_html/uk/ams/protected/components/Custom.php on line 75
+[14-Sep-2016 13:43:05 Europe/London] PHP Fatal error:  Call to undefined method Utility::getAvailableDateTimeForStaffForApp() in /home/idiochiranjit/public_html/uk/ams/protected/components/Custom.php on line 75
+[14-Sep-2016 13:43:46 Europe/London] PHP Fatal error:  Call to undefined method Utility::getAvailableDateTimeForStaffForApp() in /home/idiochiranjit/public_html/uk/ams/protected/components/Custom.php on line 75
+[14-Sep-2016 13:44:55 Europe/London] PHP Fatal error:  Call to undefined method Utility::getAvailableDateTimeForStaffForApp() in /home/idiochiranjit/public_html/uk/ams/protected/components/Custom.php on line 75
+[14-Sep-2016 13:49:37 Europe/London] PHP Fatal error:  Call to undefined method Utility::getAvailableDateTimeForStaffForApp() in /home/idiochiranjit/public_html/uk/ams/protected/components/Custom.php on line 78
+[30-Sep-2016 15:30:41 Europe/London] PHP Fatal error:  Call to undefined method Custom::getAllStaffLists() in /home/idiochiranjit/public_html/uk/ams/protected/controllers/SecureController.php on line 172
+[03-Oct-2016 07:52:14 Europe/London] PHP Fatal error:  Call to undefined method Custom::getAllStaffLists() in /home/idiochiranjit/public_html/uk/ams/protected/controllers/SecureController.php on line 172
+[03-Oct-2016 16:54:31 Europe/London] PHP Fatal error:  Call to a member function queryColumn() on a non-object in /home/idiochiranjit/public_html/uk/ams/protected/components/Custom.php on line 388
